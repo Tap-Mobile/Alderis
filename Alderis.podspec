@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Alderis"
-  spec.version      = "1.2.0"
+  spec.version      = "2.0.0"
   spec.summary      = "A fresh new color picker, with a gentle, fun, and dead simple user interface."
   spec.description  = <<-DESC
                       Alderis is a fresh new color picker, with a gentle, fun, and dead simple user

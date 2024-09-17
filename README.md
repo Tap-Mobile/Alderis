@@ -66,7 +66,7 @@ If this doesn’t seem important to you, the answer is simple: skip Alderis and 
 Add to your Podfile:
 
 ```ruby
-pod 'Alderis', '~> 1.2.0'
+pod 'Alderis', '~> 2.0.0'
 ```
 
 And then run `pod install`.
@@ -75,7 +75,7 @@ And then run `pod install`.
 Add to your Cartfile:
 
 ```ruby
-github 'hbang/Alderis' ~> 1.2.0
+github 'hbang/Alderis' ~> 2.0.0
 ```
 
 And then run `carthage update`.
@@ -89,7 +89,7 @@ Or, manually add it to your Package.swift:
 
 ```swift
 dependencies: [
-	.package(url: "http://github.com/hbang/Alderis.git", from: "1.2.0")
+	.package(url: "http://github.com/hbang/Alderis.git", from: "2.0.0")
 ]
 ```
 
